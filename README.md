@@ -1,0 +1,1 @@
+# pareto-chart-plugin-feishu
